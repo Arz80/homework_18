@@ -1,1 +1,1 @@
-# Tamagichi
+# Tamagochi
