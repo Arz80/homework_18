@@ -3,7 +3,7 @@ using Tamagochi.BL;
 using Tamagochi.Modules;
 
 namespace Tamagochi;
-
+// Программа тамагочи с котами
 class Program
 {
     public static void Main(string[] args)
